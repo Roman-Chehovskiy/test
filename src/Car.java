@@ -4,7 +4,7 @@ public class Car {
 
     private static String []color = {"красный", "зелёный", "черныйй", "белый", "жёлтый"};
     private static String []model = {"Honda Accord", "Mazda RX8", "Nisan Skyline", "Toyota MarkII", "BMW M3"};
-    private static int [] speed = {243, 234, 250, 230, 250};
+    private static int [] speed = {243, 200, 250, 230, 250};
     private String colorCar;
     private String modelCar;
     private int speedCar;

@@ -8,6 +8,9 @@ public class Rase {
         System.out.println("Введите количество участников");
         countCar = vvod.nextInt();
         startRase(countCar);
+        startRase(countCar);
+        startRase(countCar);
+
     }
 
     public static void startRase(int count) {
